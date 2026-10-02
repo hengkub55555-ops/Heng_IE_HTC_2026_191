@@ -1,0 +1,6 @@
+{
+  "name": "RefrigLine VSM - Lean Line Balancing & Bottleneck Analyzer",
+  "description": "Value Stream Mapping and real-time line balancing optimizer for refrigeration manufacturing line, featuring Target UPH, Takt Time, Cycle Time, WIP, and Bottleneck analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
